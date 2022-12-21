@@ -1,0 +1,36 @@
+body{
+    background-image: url('imagens/fundo.png');
+}
+
+.page{
+    width:min-content;
+}
+
+.menu{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(231, 216, 195);
+}
+
+a{
+    color: rgb(56, 56, 56);
+    text-decoration: double;
+    font-weight: bold;
+}
+
+.conteudo{
+    background-color: white;
+}
+
+h3{
+    color: rgb(206, 165, 111);
+}
+
+.rodape{
+    text-align: center;
+    font-weight: bold;
+}
+
+.fotos{
+    border: 6px solid rgb(172, 169, 169);
+}
